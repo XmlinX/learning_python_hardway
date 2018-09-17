@@ -1,7 +1,14 @@
 {
+<<<<<<< HEAD
     "python.pythonPath": "/Users/xiameilin/anaconda3/bin/python",
     "python.unitTest.promptToConfigure": false,
     "python.unitTest.pyTestEnabled": false,
     "python.unitTest.unittestEnabled": false,
     "python.unitTest.nosetestsEnabled": false,
+=======
+
+
+
+    
+>>>>>>> 194605519a8a90a784d71aac92111605b8ae8d53
 }
