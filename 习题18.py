@@ -20,4 +20,8 @@ print_two("Zed","Shaw")
 print_two_again("Zed","Shaw")
 print_one("First!")
 print_none()
+<<<<<<< HEAD
 #人为制造冲突
+=======
+#这是一行注释
+>>>>>>> 96aae3d36c92a7a092c36cafa4abc2d10fc80be1
